@@ -1,5 +1,5 @@
 ## Hi there 👋,I am Mukund Kumar Jha
-# 💫A Passionate Software Developer from India 🇮🇳
+# 💫A Passionate Software Developer from India 
 🔭 I’m currently working on "Newsmonkey"<br>🌱 I’m currently learning "React, Node.js"<br>💬 Ask me about "React, PHP"<br>⚡ Fun fact "Game of Thrones Night's Watch cloaks are made from Ikea rugs"
 
 
