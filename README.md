@@ -1,4 +1,4 @@
-## Hi there 👋,I am Mukund Kumar Jha                                                                       [![](https://visitcount.itsvg.in/api?id=mukund-990&icon=0&color=0)](https://visitcount.itsvg.in)
+## Hi there 👋,I am Mukund Kumar Jha
 # 💫A Passionate Software Developer from India
 
 ![68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966](https://github.com/mukund-990/mukund-990/assets/133525695/8d5713a5-4da5-44d6-bbb0-c4ad5ef1aeb9)
@@ -20,6 +20,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mukund-990&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
